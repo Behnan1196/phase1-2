@@ -16,7 +16,7 @@ export default function HomePage() {
   const students: Student[] = [
     { id: '1', name: 'Öğrenci 1' },
     { id: '2', name: 'Öğrenci 2' },
-    { id: '3', name: 'Öğrenci 3' },
+    { id: '3', name: 'Öğrenci 5' },
   ];
 
   const handleStudentChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
